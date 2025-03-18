@@ -70,11 +70,11 @@ npm install react-router-dom
 ```sh
 npm install @shadcn/ui
 ```
-## Step 5: Run the Project
-Start your development server:
+## Step 5: Install lucide-react
+For icons in the leaderboard
 
 ```sh
-npm run dev
+npm install lucide-react
 ```
 
 Now your project is set up with **Tailwind CSS** and **React Router**! 🚀
