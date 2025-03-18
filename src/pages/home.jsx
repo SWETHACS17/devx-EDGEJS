@@ -9,17 +9,17 @@ const Home = () => {
           <h1 className="text-white text-2xl font-bold">MyApp</h1>
           <ul className="flex space-x-6">
             <li>
-              <a href="#" className="text-white hover:underline">
+              <a href="/" className="text-white hover:underline">
                 Home
               </a>
             </li>
             <li>
-              <a href="#" className="text-white hover:underline">
+              <a href="/about" className="text-white hover:underline">
                 About
               </a>
             </li>
             <li>
-              <a href="#" className="text-white hover:underline">
+              <a href="/contact" className="text-white hover:underline">
                 Contact
               </a>
             </li>
