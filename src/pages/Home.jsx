@@ -11,7 +11,7 @@ const Home = () => {
           <h1 className="text-white text-2xl font-bold">HabitQuest</h1>
           <ul className="flex space-x-6">
             <li>
-              <a href="/profile" className="text-white hidden">Profile</a>
+              <a href="/profilelog" className="text-white ">Profile</a>
             </li>
             <li>
               <button
