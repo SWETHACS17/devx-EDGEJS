@@ -67,7 +67,9 @@ To set up navigation in your React app, install React Router:
 ```sh
 npm install react-router-dom
 ```
-
+```sh
+npm install @shadcn/ui
+```
 ## Step 5: Run the Project
 Start your development server:
 
