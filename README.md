@@ -58,9 +58,7 @@ export default {
 Add Tailwind to `src/index.css`:
 
 ```css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 ```
 
 ## Step 4: Install React Router
