@@ -96,5 +96,24 @@ Start your development server:
 npm run dev
 ```
 
+
 Now your project is set up with **Tailwind CSS** and **React Router**! 🚀
+
+🚀 Project Features:
+
+🌟 Feature 1: Leaderboard Display
+<p align="center"> <img src="./images/leader-board.jpg" alt="" width="800" /> </p>
+
+🌟 Feature 2: User Progress Tracking Graph
+<p align="center"> <img src="./images/track-progress-graph.jpg" alt="" width="800" /> </p>
+
+🌟 Feature 3: Dashboard Page
+<p align="center"> <img src="./images/dashboard.jpg" alt="" width="800" /> </p>
+
+🌟 Feature 4: Welcome Page
+<p align="center"> <img src="./images/welcome-page.jpg" alt="" width="800" /> </p>
+
+🌟 Feature 5: Profile Page
+<p align="center"> <img src="./images/profile-page.jpg" alt="" width="800" /> </p>
+
 
