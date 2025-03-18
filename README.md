@@ -2,6 +2,9 @@
 
 This guide will help you set up a React project with **Tailwind CSS** and **React Router**.
 
+## Event name: DevX
+## Team name: EdgeJS
+
 ## Prerequisites
 Make sure you have **Node.js** and **npm** installed. You can check by running:
 
