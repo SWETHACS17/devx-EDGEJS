@@ -76,6 +76,25 @@ For icons in the leaderboard
 ```sh
 npm install lucide-react
 ```
+## Step 5: Install React-Calendar (for calendar functionality)
+To display and manage dates:
+
+```sh
+npm install react-calendar
+```
+## Step 6:Install React-Icons (for additional icons)
+To use more icons in the project:
+
+```sh
+npm install react-icons
+```
+
+## Step 7: Run the Project
+Start your development server:
+
+```sh
+npm run dev
+```
 
 Now your project is set up with **Tailwind CSS** and **React Router**! 🚀
 
